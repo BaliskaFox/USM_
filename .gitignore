@@ -1,4 +1,3 @@
 .env
-src/common/config.py
-src/common/database.py
+
 
